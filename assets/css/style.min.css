@@ -534,13 +534,13 @@ header .btn-group {
 .load-more {
 	margin-inline: auto;
 	margin: auto;
-	background: var(--foreground-secondary);
+	background: var(--accent);
 	color: var(--background-secondary);
 	padding: .6875rem 1.1875rem
 }
 
 .load-more:hover {
-	background: var(--accent)
+	background: var(--foreground-secondary)
 }
 
 .aside {
